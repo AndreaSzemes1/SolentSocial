@@ -1,0 +1,39 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "explorer.confirmDragAndDrop": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "always"
+  },
+  "editor.formatOnSaveMode": "file",
+  "security.workspace.trust.untrustedFiles": "open",
+  "window.zoomLevel": 1,
+  "editor.formatOnSave": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2,
+  "typescript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.linkedEditing": true,
+  "cSpell.enabled": true,
+  "npm.enableRunFromFolder": true,
+  "editor.fontSize": 13,
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.singleQuote": true
+}
